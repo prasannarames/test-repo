@@ -1,2 +1,5 @@
-Hey , I'm prasanna
-This repository is for my practice purposes.
+# practice repo
+
+Hello I'm prasanna
+
+This repository is for practicing purpose.
